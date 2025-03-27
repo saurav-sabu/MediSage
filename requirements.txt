@@ -1,0 +1,9 @@
+langchain-core
+langchain-community
+langchain-pinecone
+pinecone[grpc]
+langchain-google-genai
+python-dotenv
+flask
+pymupdf4llm
+-e .
