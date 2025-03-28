@@ -5,5 +5,5 @@ pinecone[grpc]
 langchain-google-genai
 python-dotenv
 flask
-pymupdf4llm
+pypdf
 -e .
